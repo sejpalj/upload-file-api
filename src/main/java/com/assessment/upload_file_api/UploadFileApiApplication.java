@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 
 
-//Jus tot test git if its working or not
+//Just to test git if its working or not yoloyolyoyoylyoylyol
 @SpringBootApplication
 @EnableConfigurationProperties(FileUploadStorageProperties.class)
 public class UploadFileApiApplication {
