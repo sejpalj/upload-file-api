@@ -5,6 +5,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 
+
+//Jus tot test git if its working or not
 @SpringBootApplication
 @EnableConfigurationProperties(FileUploadStorageProperties.class)
 public class UploadFileApiApplication {
