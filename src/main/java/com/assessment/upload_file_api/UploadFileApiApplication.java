@@ -12,7 +12,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 //this is sanjay
 //this is sanjay
 //before merge
-
+// this is sarath
 @SpringBootApplication
 @EnableConfigurationProperties(FileUploadStorageProperties.class)
 public class UploadFileApiApplication {
@@ -21,4 +21,3 @@ public class UploadFileApiApplication {
 		SpringApplication.run(UploadFileApiApplication.class, args);
 	}
 }
-
